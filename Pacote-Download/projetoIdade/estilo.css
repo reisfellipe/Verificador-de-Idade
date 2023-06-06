@@ -1,0 +1,27 @@
+body {
+    background-attachment: fixed;
+    font: normal 15pt Arial;
+    background-image: linear-gradient(-45deg,#D302BF, #F40181,#FE0966,#FE2748,#FE6E0D);
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-image: linear-gradient(to right, #7A918D,#93B1A7,#99C2A2,#C5EDAC,#DBFEB8 );
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 10px 13px 10px rgba(0, 0, 0, 0.527);
+
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
