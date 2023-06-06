@@ -1,19 +1,23 @@
+@import url('https://fonts.googleapis.com/css2? family= Assistant:wght@200;300;400;500;600;700 & display=swap');
+
 body {
     background-attachment: fixed;
-    font: normal 15pt Arial;
     background-image: linear-gradient(to right, #0D0D0D,#014034, #02735E, #038C73, #36BFB1);
 }
 
 header {
     color: white;
+    font-family: 'Assistant', sans-serif;
     text-align: center;
 }
+
 
 section {
     background-image: linear-gradient(to right, #7A918D,#93B1A7,#99C2A2,#C5EDAC,#DBFEB8 );
     border-radius: 10px;
-    padding: 15px;
+    padding: 10px;
     width: 500px;
+    height: 400px;
     margin: auto;
     text-align: center;
     box-shadow: 10px 13px 10px rgba(0, 0, 0, 0.527);
@@ -24,4 +28,9 @@ footer {
     color: white;
     text-align: center;
     font-style: italic;
+}
+
+#res{
+    text-align: center;
+    padding: 10px;
 }
