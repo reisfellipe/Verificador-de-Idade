@@ -2,12 +2,12 @@
 
 body {
     background-attachment: fixed;
+    font: normal 15pt Arial;
     background-image: linear-gradient(to right, #0D0D0D,#014034, #02735E, #038C73, #36BFB1);
 }
 
 header {
     color: white;
-    font-family: 'Assistant', sans-serif;
     text-align: center;
 }
 
@@ -28,9 +28,4 @@ footer {
     color: white;
     text-align: center;
     font-style: italic;
-}
-
-#res{
-    text-align: center;
-    padding: 10px;
 }
